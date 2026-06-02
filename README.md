@@ -122,8 +122,8 @@ Potential extensions include:
 
 ## Repository Contents
 
-* `forecasting.ipynb` – analysis and model development
-* `report.pdf` – detailed project report
+* `travel_forecast.ipynb` – analysis and model development
+* `Project report.pdf` – detailed project report
 * `data/` – source dataset
 * `figures/` – visualizations and forecast outputs
 
