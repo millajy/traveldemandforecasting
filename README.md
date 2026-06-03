@@ -124,7 +124,7 @@ Potential extensions include:
 
 * `travel_forecast.ipynb` – analysis and model development
 * `Project report.pdf` – detailed project report
-* `data/` – source dataset
+* `trips-abroad.txt` – source dataset
 * `figures/` – visualizations and forecast outputs
 
 ## Author
