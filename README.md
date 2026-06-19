@@ -7,7 +7,7 @@ The analysis covers January 2012 – December 2019 (pre-pandemic data only, to a
 ## What's in this repo
 
 - `travel_forecast.ipynb` – full analysis and model development
-- `Project report.pdf` – detailed write-up
+- `Travel demand forecasting.pdf` – detailed write-up
 - `trips-abroad.txt` – source dataset
 - `figures/` – visualizations and forecast outputs
 
