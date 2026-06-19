@@ -9,7 +9,6 @@ The analysis covers January 2012 – December 2019 (pre-pandemic data only, to a
 - `travel_forecast.ipynb` – full analysis and model development
 - `Travel demand forecasting.pdf` – detailed write-up
 - `trips-abroad.txt` – source dataset
-- `figures/` – visualizations and forecast outputs
 
 ## Approach
 
